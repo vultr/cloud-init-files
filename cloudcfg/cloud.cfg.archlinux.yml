@@ -54,4 +54,3 @@ system_info:
 updates:
   network:
     when: ['boot', 'boot-new-instance']
-
